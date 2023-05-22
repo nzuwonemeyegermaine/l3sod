@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>       </title>
+</head>
+<tableborder=2>
+<tr>
+<td>
+<tableborder=4>
+<tr>
+<td> n</td>
+<td>courses</td>
+<td>level</td>
+</tr>
+<tr>
+<td>1</td>
+<td>web</td>
+<td>l3sod </td>
+  </tr>
+<tr>
+<td> 2</td>
+<td>cv</td>
+<td>l3csa</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ipl</td>
+<td>l4sod</td>
+</tr>
+<tr>
+<td>4</td>
+<td>js</td>
+<td>l5sod</td>
+</tr>
+</table>
+
+               
